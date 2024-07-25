@@ -1,0 +1,13 @@
+01. Variable and Data types
+02. Number and String
+03. Boolean and Operators
+04. List
+05. Tuples
+06. Sets
+07. Dictionaries
+08. Conditions (if-else)
+09. Loops (for + while)
+10. Functions
+11. Arrays
+12. Oop 
+13. others
